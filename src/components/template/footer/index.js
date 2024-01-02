@@ -28,7 +28,7 @@ function Footer() {
                 </Typography>
 
                 <img
-                    src="https://avatars.githubusercontent.com/u/51797012?v=4"
+                    src=""
                     alt='Imagem do desenvolvedor'
                     width="300px"
                     className="devImage"
@@ -42,7 +42,7 @@ function Footer() {
                     }}
                     className="footerTitle"
                 >
-                    <a href="https://github.com/otavioaraujo08" target="_blank">
+                    <a href="" target="_blank">
                         <GitHubIcon /> Github    
                     </a>
                 </Typography>
@@ -55,7 +55,7 @@ function Footer() {
                     }}
                     className="footerTitle"
                 >
-                    <a href="https://www.linkedin.com/in/ot%C3%A1vio-araujo-77474b1ab" target="_blank">
+                    <a href="" target="_blank">
                         <LinkedInIcon /> Linkedin
                     </a>
                 </Typography>
