@@ -1,7 +1,7 @@
 
 # Pokedex - Pokemon Api with ReactJs
 
-An application to display Pokemon anime statistics using the api publishes PokeApi
+A refactored project to display Pokémon anime statistics using the PokeApi public API
 
 
 ## Functionalities
