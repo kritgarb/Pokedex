@@ -1,14 +1,7 @@
 
 # Pokedex - Pokemon Api with ReactJs
 
-
 An application to display Pokemon anime statistics using the api publishes PokeApi
-
-
-
-## Vídeo exploratório
-
-https://www.linkedin.com/feed/update/urn:li:activity:6947244650936074240/
 
 
 ## Functionalities
@@ -39,7 +32,3 @@ running the project
  - [Material UI](https://mui.com/pt/)
 
 
-## Authors
-
-- [Otávio Araujo](https://github.com/otavioaraujo08)
-- [Thiago Cabral](https://github.com/thsthiago)
