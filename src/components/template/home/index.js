@@ -57,7 +57,7 @@ function Home() {
                     className="searchBox"
                 >
                     <Typography variant="h5">
-                        Pesquisa p/ Pokemon:
+                        Pokemon:
                     </Typography>
 
                     <Autocomplete
@@ -68,7 +68,7 @@ function Home() {
                         renderInput={(params) =>                     
                         <TextField
                             id="filled-basic"
-                            label="Pesquise por seu pokemon preferido"
+                            label="QUAL O SEU POKÉMON FAVORITO?"
                             variant="standard"
                             {...params}
                             sx={{
