@@ -57,7 +57,7 @@ function Home() {
                     className="searchBox"
                 >
                     <Typography variant="h5">
-                        Pokemon:
+                        Pokémon:
                     </Typography>
 
                     <Autocomplete
