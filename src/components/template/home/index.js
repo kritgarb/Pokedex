@@ -135,6 +135,7 @@ function Home() {
                                 sx = {{
                                     bgcolor: 'transparent',
                                     borderRadius: 5,
+                                    margin:10,
                                 }}
                                 className="paper"
                             >

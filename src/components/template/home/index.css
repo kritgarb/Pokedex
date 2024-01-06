@@ -35,7 +35,7 @@
 h2 {
     font-family: 'Playfair Display', serif;
     font-size: 4rem;
-    color: #9a031e;
+    color: #3c5aa6;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -45,9 +45,10 @@ h2 {
 }
 
 .paper {
-    height: 13rem;
-    width: 40rem;
+    height: auto;
+    width: auto;
     text-align: center;
+
 }
 
 .subTitulo {
