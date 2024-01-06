@@ -47,7 +47,7 @@ function Home() {
                         justifyContent: 'space-between',
                         flexDirection: 'row',
                         alignItems: 'center',
-                        width: "55%",
+                        width: "auto",
                         p: 1,
                         mr: 1,
                         borderRadius: 1,
@@ -148,7 +148,7 @@ function Home() {
                                     }}
                                     className='subTitulo'
                                 >
-                                    Charmander é um Pokémon do Tipo Fogo e um dos Pokémon capturáveis do jogo Pokémon Go. Ele evolui para Charmeleon no nível 16 e para Charizard no nível 36.
+                                    Charmander é um Pokémon do Tipo Fogo e um dos Pokémon capturáveis do jogo Pokémon Go.
                                 </Typography>
                             </Paper>
                         </Box>
