@@ -50,11 +50,11 @@ h2 {
     height: auto;
     width: auto;
     text-align: center;
-
 }
 
 .subTitulo {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #2a75bb;
 }
 
 .div2 { 
