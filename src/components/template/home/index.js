@@ -144,11 +144,11 @@ function Home() {
                                     gutterBottom
                                     component="div"
                                     sx = {{
-                                        m: 7,
+                                        m: 2,
                                     }}
                                     className='subTitulo'
                                 >
-                                    Charmander é um Pokémon do Tipo Fogo e um dos Pokémon capturáveis do jogo Pokémon Go.
+                                    Charmander é um Pokémon do tipo fogo e um dos Pokémons capturáveis do jogo Pokémon Go.
                                 </Typography>
                             </Paper>
                         </Box>
