@@ -36,9 +36,10 @@ function Home() {
         <>
             <Box className='header'>
                 <img 
+                    className='logoPokemon'
                     src={Logo} 
                     alt="Pokemon-Logo"
-                    width="14%"
+                    width="10%"
                 />
 
                 <Box 
@@ -51,6 +52,7 @@ function Home() {
                         p: 1,
                         mr: 1,
                         borderRadius: 1,
+                      
                     }}
                     component="form"
                     onSubmit={handleSubmit}
@@ -63,7 +65,7 @@ function Home() {
                     <Autocomplete
                         id="combo-box-demo"
                         options={list}
-                        sx={{ width: '50ch' }}
+                        sx={{ width: '100%' }}
                         onChange={(e, newEvent) => setValueInput(newEvent.name)}
                         renderInput={(params) =>                     
                         <TextField
@@ -72,7 +74,7 @@ function Home() {
                             variant="standard"
                             {...params}
                             sx={{
-                                width: '50ch' 
+                                width: '100%' 
                             }}
                         />}
                     />
